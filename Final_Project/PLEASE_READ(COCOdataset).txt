@@ -1,0 +1,4 @@
+As COCO pretrained dataset is too large, so I append URL link to download it.
+I wish I had simple dataset, but due to the code, it was impossible(VQA questions, answers are exactly matched to COCO dataset)
+
+URL LINK: https://awma1-my.sharepoint.com/personal/yuz_l0_tn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fyuz%5Fl0%5Ftn%2FDocuments%2Fshare%2Fmscoco%5Fbottom%5Fup%5Ffeatures
